@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Cloth-Lighting.sln"
+    "dotnet.defaultSolution": "Unity-Anisotropic-BRDF-Example.sln"
 }
