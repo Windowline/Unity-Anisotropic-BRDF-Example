@@ -1,0 +1,2 @@
+- References
+  - https://www.researchgate.net/publication/2523875_An_anisotropic_phong_BRDF_model
